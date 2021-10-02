@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+th{
+    background-color: black;
+    color: white;
+}
+th:hover{
+    background-color: orangered;
+}
+td:hover{
+    background-color: yellow;
+    color: violet;
+}
